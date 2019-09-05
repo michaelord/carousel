@@ -1,0 +1,14 @@
+.carousel {
+	$parent: &;
+
+	padding: 50px;
+
+	&__main {
+		display: flex;
+
+		> * {
+			flex: 0 1 300px;
+			padding: 15px;
+		}
+	}
+}

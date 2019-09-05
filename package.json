@@ -1,0 +1,17 @@
+{
+  "name": "carousel",
+  "private": true,
+  "description": "...",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/michaelord/carousel.git"
+  },
+  "devDependencies": {
+    "components/libs": "http://github.com/michaelord/libs.git",
+    "components/types": "http://github.com/michaelord/types.git"
+  },
+  "author": "michaelord",
+  "keywords": []
+}
