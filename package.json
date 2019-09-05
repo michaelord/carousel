@@ -8,10 +8,11 @@
     "type": "git",
     "url": "http://github.com/michaelord/carousel.git"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "author": "michaelord",
+  "keywords": [],
+  "dependencies": {
     "components/libs": "http://github.com/michaelord/libs.git",
     "components/types": "http://github.com/michaelord/types.git"
-  },
-  "author": "michaelord",
-  "keywords": []
+  }
 }
