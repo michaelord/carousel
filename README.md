@@ -1,4 +1,13 @@
 ---
 title: Carousel
-tags : ["all"]
+tags : ["all", "wip"]
+category: "Undefined"
+logo: "./thumbnail.jpg"
+icon: '<svg viewBox="0 0 260 180" xmlns="http://www.w3.org/2000/svg" fill="none"><rect width="260" height="180" fill="var(--color-bg)"></rect><rect x="8" y="60" width="76" height="76" rx="1" fill="var(--color-contrast-lower)"></rect><path d="M30 91C33.3137 91 36 88.3137 36 85C36 81.6863 33.3137 79 30 79C26.6863 79 24 81.6863 24 85C24 88.3137 26.6863 91 30 91Z" fill="var(--color-contrast-medium)"></path><path d="M24 116L51 88L68 116H24Z" fill="var(--color-contrast-medium)"></path><rect x="92" y="60" width="76" height="76" rx="1" fill="var(--color-contrast-lower)"></rect><rect x="176" y="60" width="76" height="76" rx="1" fill="var(--color-contrast-lower)"></rect><path d="M114 91C117.314 91 120 88.3137 120 85C120 81.6863 117.314 79 114 79C110.686 79 108 81.6863 108 85C108 88.3137 110.686 91 114 91Z" fill="var(--color-contrast-medium)"></path><path d="M108 116L135 88L152 116H108Z" fill="var(--color-contrast-medium)"></path><path d="M198 91C201.314 91 204 88.3137 204 85C204 81.6863 201.314 79 198 79C194.686 79 192 81.6863 192 85C192 88.3137 194.686 91 198 91Z" fill="var(--color-contrast-medium)"></path><path d="M192 116L219 88L236 116H192Z" fill="var(--color-contrast-medium)"></path><rect x="8" y="36" width="20" height="20" fill="var(--color-contrast-high)"></rect><path d="M20 41L14 46L20 51V41Z" fill="var(--color-bg)"></path><rect x="52" y="56" width="20" height="20" transform="rotate(-180 52 56)" fill="var(--color-contrast-high)"></rect><path d="M40 51L46 46L40 41L40 51Z" fill="var(--color-bg)"></path></svg>'
+published : true
 ---
+import {CarouselDemo} from './demo';
+
+[TODO]
+
+<CarouselDemo />

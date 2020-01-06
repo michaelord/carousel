@@ -1,18 +1,21 @@
 {
-  "name": "carousel",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/carousel.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "components/libs": "http://github.com/michaelord/libs.git",
-    "components/types": "http://github.com/michaelord/types.git"
-  }
+	"name": "carousel",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/carousel.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/libs": "http://github.com/michaelord/libs.git",
+		"components/events": "http://github.com/michaelord/events.git",
+		"components/types": "http://github.com/michaelord/types.git",
+		"flickity-imagesloaded": "^2.0.0"
+	}
 }
